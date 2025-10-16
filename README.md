@@ -12,7 +12,7 @@ Sou um **Engenheiro de QA e Automação de Testes** apaixonado por garantir a qu
 - 🌱 Aprendendo **DevOps e CI/CD pipelines**
 - 👯 Buscando colaborar em **projetos de automação de testes**
 - 💬 Pergunte-me sobre **automação de testes, QA e boas práticas**
-- 📫 Como me encontrar: **lincolnximenes@gmail.com**
+- 📫 Como me encontrar: **lincolnximenes19@gmail.com**
 
 ## 🛠️ Tecnologias e Ferramentas
 

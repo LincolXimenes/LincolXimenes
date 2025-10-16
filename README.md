@@ -41,49 +41,66 @@ Sou um **Engenheiro de QA e Automação de Testes** apaixonado por garantir a qu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Zephyr Scale](https://img.shields.io/badge/Zephyr_Scale-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Adobe AEM](https://img.shields.io/badge/Adobe_AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Learning Manager](https://img.shields.io/badge/Adobe_Learning_Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolXimenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolXimenes&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolXimenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolXimenes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LincolXimenes&theme=tokyonight" alt="LincolXimenes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LincolXimenes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LincolXimenes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="LincolXimenes" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LincolXimenes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🐍 Contribuições
+## 📈 Atividade GitHub
 
 <div align="center">
-  <img src="https://github.com/LincolXimenes/LincolXimenes/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LincolXimenes&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🎯 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/LincolXimenes/cypress-tests-automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LincolXimenes&repo=cypress-tests-automation&theme=tokyonight" />
-  </a>
-</div>
+### 🚀 Automação de Testes com Cypress
+**[cypress-tests-automation](https://github.com/LincolXimenes/cypress-tests-automation)** - Projeto completo de automação de testes E2E utilizando Cypress, TypeScript e boas práticas de QA.
 
-## 📈 Atividade Recente
+- ✅ Testes automatizados para múltiplas plataformas
+- 🔧 Configuração de CI/CD 
+- 📱 Testes responsivos (Desktop/Mobile)
+- 🎯 Page Object Model e Custom Commands
+- 📊 Relatórios detalhados de execução
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 📈 Experiência e Conhecimentos
+
+### 🔍 **QA & Testing**
+- Automação de testes E2E, API e unitários
+- Criação de estratégias de teste abrangentes
+- Implementação de pipelines de CI/CD
+- Testes de performance e carga
+
+### 🛠️ **Desenvolvimento**
+- JavaScript/TypeScript para automação
+- Python para scripts e APIs de teste
+- Integração com ferramentas de DevOps
+- Documentação técnica e boas práticas
 
 ## 🤝 Vamos nos conectar!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lincolnximenes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lincolnximenes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincoln-ximenes-1a151393/){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lincolnximenes19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LincolXimenes)
 
 </div>
@@ -99,3 +116,4 @@ Sou um **Engenheiro de QA e Automação de Testes** apaixonado por garantir a qu
   <p>⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!</p>
 </div>
 </div>
+

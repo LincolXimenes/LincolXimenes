@@ -64,6 +64,7 @@ Crio soluções de automação robustas e escaláveis e gosto de transformar qua
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**qa-automation-portfolio**](https://github.com/LincolXimenes/qa-automation-portfolio) | Portfólio de automação com Playwright e TypeScript: Page Object Model, fixtures, testes de UI e de API, suítes smoke e regressão e pipeline no GitHub Actions com relatórios. | Playwright, TypeScript, GitHub Actions |
 | [**pastelaria-pdv**](https://github.com/LincolXimenes/pastelaria-pdv) | API REST de ponto de venda: usuários com perfis (Admin, Gerente, Funcionário), clientes, produtos com estoque e pedidos. Autenticação JWT, documentação Swagger e testes com Jest. | Node.js, Express, MongoDB, Docker |
 | [**pastelaria-frontend**](https://github.com/LincolXimenes/pastelaria-frontend) | Interface do PDV integrada à API: componentes reutilizáveis, rotas e consumo da API via Axios. | React, Vite, TailwindCSS |
 
